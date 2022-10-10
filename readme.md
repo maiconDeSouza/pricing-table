@@ -1,5 +1,5 @@
 <h1>
-	Projeto com CSS Grid
+	Pricing-table
 	<img 
 		align="right"
 		width="150"
